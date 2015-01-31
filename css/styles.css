@@ -1,0 +1,21 @@
+img {
+  border: 2px solid black;
+}
+h1 {
+  color: orange;
+}
+h2 {
+  border-bottom: 1px solid black;
+}
+a {
+  color: magenta;
+}
+li {
+  list-style-type: square;
+}
+#my-description {
+ color: orange;
+.description {
+  color: orange;
+a { color: blue; text-decoration: none;}
+a:hover {text-decoration: underline;}
